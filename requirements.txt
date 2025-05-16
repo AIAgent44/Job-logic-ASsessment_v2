@@ -1,0 +1,9 @@
+langchain-openai==0.1.4
+langchain
+fastapi==0.104.1
+uvicorn==0.23.2
+python-dotenv==1.0.0
+requests==2.31.0
+pydantic
+gql==3.4.1
+langsmith==0.1.83
